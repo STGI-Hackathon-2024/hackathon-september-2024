@@ -8,7 +8,7 @@
 
 
 This repo contains all of our codes for stg_hackathon PS-3 Resume_Screener
-<br> main repo - https://github.com/stg-india/hackathon-september-2024
+<br> main repo - https://github.com/staru09/stg_hackathon.git
 
 <br> data folder contains all the forms as pdf and their extracted OCR results.
 
