@@ -1,26 +1,21 @@
-# Hackathon-september-2024
+# team_anaconda
 
-## Guidelines 
-- Teams have to create a fork of this particular repo on start of hackathon.
-- Rename the repo as per the team name when you create the fork
-- Once you select the problem statement that you are going to work on, create a file as initial.md and give your team name, team members name and the problem statement you are trying to solve. Do this within first one hour of starting the hackathon. 
-- At the end of hackathon timing, STGI team will create a copy all the repos that are forked and only that will be used for evaluation. So ensure the code is committed to the forked repo only.
-- Do continuous commits to your own forks so that we can evaluate the commit history as well.
-- You can place your presentation and videos if any within the same repo by creating a new folder.
+<br> Team Members
+<br> Nandani 
+<br> Pallavi
+<br> Anirudh
+<br> Aru
 
 
-### All the very best..!! Happy Hacking..!! 
+This repo contains all of our codes for stg_hackathon PS-3 Resume_Screener
+<br> main repo - https://github.com/stg-india/hackathon-september-2024
 
+<br> data folder contains all the forms as pdf and their extracted OCR results.
 
+<br> scripts folder contains all the code that we wrote during the hackathon.
 
-## Topics 
+<br> utils contain the files given in the initial repo.
 
-Team can chose ONE of the topic from below and work on that.
+<br> ppt link [https://www.canva.com/design/DAGSF308czw/SS4SQKquZ1e43DYPtZ4_rQ/edit?utm_content=DAGSF308czw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
-- [Scenario - 1: Image Forgery](ImageForgery.md)
-
-- [Scenario - 2: Infra Monitoring Tool](InfraMonitor/InfraMonitor.md)
-
-- [Scenario - 3: Resume Screener](ResumeScreening.md)
-  
-- [Scenario - 4: KYC Platform](KYCPlatform.md)
+<br> video link [https://drive.google.com/file/d/10WToU102j--04IZNJyplzf4UoUu2mQLA/view?usp=sharing]
